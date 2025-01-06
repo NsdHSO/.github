@@ -12,27 +12,6 @@ Some thoughts to help you contribute to this project
 1. Always review your code first. Do this by leaving comments in your coding noting questions, or interesting things for the reviewer.
 1. Always communicate. Whether it is in the issue or the pull request, keeping the lines of communication helps everyone around you.
 
-## Setup (forks are preferred).
-
-```sh
-$ git clone https://github.com/<your-name>/open-sauced
-$ cd open-sauced
-$ npm install
-```
-
-## Building
-
-```sh
-$ npm run build
-```
-
-## Testing
-For running the test suite, use the following command. Since the tests run in watch mode by default, some users may encounter errors about too many files being open. In this case, it may be beneficial to [install watchman](https://facebook.github.io/watchman/docs/install.html).
-```sh
-# the tests will run in watch mode by default
-$ npm run test
-```
-
 ## Pull Requests
 
 ### _We actively welcome your pull requests, however linking your work to an existing issue is preferred._
@@ -48,7 +27,6 @@ $ npm run test
 1. A PR description and title are required. The title is required to begin with: "feat:" or "fix:"
 1. [Link to an issue](https://help.github.com/en/github/writing-on-github/autolinked-references-and-urls) in the project. Unsolicited code is welcomed, but an issue is required for announce your intentions. PR's without a linked issue will be marked invalid and closed.
 
-*note for maintainers: All pull requests need a label to assist automation. See the [template](https://github.com/open-sauced/open-sauced/blob/HEAD/.github/release-drafter.yml) to guide which labels to use.*
 
 ### PR Validation
 Examples for valid PR titles:
@@ -68,7 +46,7 @@ GitHub has support for draft pull requests, which will disable the merge button 
 
 If you plan to contribute a change based on an open issue, please assign yourself by commenting on the following word `.take`. Issues that are not assigned are assumed open, and to avoid conflicts, please assign yourself before beginning work on any issues.
 
-If you would like to contribute to the project for the first time, please consider joining checking the [bug](https://github.com/open-sauced/open-sauced/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%90%9B+bug%22) or [good first issue](https://github.com/open-sauced/open-sauced/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labels.
+If you would like to contribute to the project for the first time, please consider joining checking the [bug](https://github.com/NsdHSO/tevet-troc/issues/new/choose) or [good first issue](https://github.com/NsdHSO/tevet-troc/issues?q=is:issue+is:open+label:%22good+first+issue%22) labels.
 
 Also, all questions are welcomed.
 
@@ -78,18 +56,17 @@ The Triage team is inspired by [expressjs/express](https://github.com/expressjs/
 
 > **There are no minimum requirements to become a member of the Triage Team.**
 
-For those interested in getting involved in the project or just open source in general, please request an invite to the Triage Team in [this discussion.](https://github.com/open-sauced/open-sauced/discussions/638)
+For those interested in getting involved in the project or just open source in general, please request an invite to the Triage Team in [this discussion.](https://github.com/NsdHSO/NsdHSO/discussions)
 
 ## Funding
-Open Sauced is a part of GitHub Sponsors. If you would like to contribute, please note the [sponsor page](https://github.com/sponsors/open-sauced) for details on how funds are distributed. If you have made any contributions to the projectd directly or indirectly, please consider adding your profile to the [funding.yml](https://github.com/open-sauced/open-sauced/blob/main/.github/funding.yml).
+Open Sauced is a part of GitHub Sponsors. If you would like to contribute, please note the [sponsor page](https://github.com/sponsors/NsdHSO) for details on how funds are distributed. If you have made any contributions to the projectd directly or indirectly, please consider adding your profile to the [funding.yml](https://github.com/NsdHSO/.github/blob/main/FUNDING.yml).
 
 ## Community
 
-Do you have questions? Join the conversation in our [Discord](https://discord.gg/U2peSNf23P).
+Do you have questions? Join the conversation in our [Discord](https://discord.com/channels/996504201469366315/996504201968492547).
 
 ## Coding Tips
 - Ask questions if you are stuck.
-- Use [CSS variables](https://github.com/open-sauced/open-sauced/blob/HEAD/src/styles/variables.js)
 - Always use [rel="noreferrer" on all target="_blank" links](https://web.dev/external-anchors-use-rel-noopener/).
 
 ## License
