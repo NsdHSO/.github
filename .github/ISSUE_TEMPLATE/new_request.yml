@@ -1,7 +1,7 @@
 name: 🚀 New Feature
-description: Suggest an idea for this project 💡
+description: What do you want to have in this platform 💡
 title: "Feature: "
-labels: [💡enhancement]
+labels: [enhancement]
 assignees:  # Add this line
   - nsdhso
 body:
