@@ -1,4 +1,4 @@
-# Open Sauced Triager Guide
+# NsdHso Triager Guide
 
 ## How do I Join the Triage Team?
 
