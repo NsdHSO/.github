@@ -1,4 +1,4 @@
-# Black Code of Conduct
+# NsdHSO Code of Conduct
 Our Commitment
 At NsdHSO, we are dedicated to fostering an environment that is inclusive, respectful, and free from harassment. We value the contributions of every individual and strive to create a welcoming community for all, irrespective of:
 
