@@ -1,4 +1,5 @@
 # .github
+
 Community health files for the *NsdHSO* organization
 
 ## Overview
@@ -38,19 +39,23 @@ Below is a comprehensive list of all files and directories in this repository, a
 ### .github/ Directory
 
 #### ISSUE_TEMPLATE/
+
 - **bug_report.yml**: Template for reporting bugs, with structured fields for description, reproduction steps, and environment details.
 - **feature_request.yml**: Template for requesting new features or improvements.
 - **new_request.yml**: Template for general new feature requests.
 - **config.yml**: Configuration for issue templates, including contact links.
 
 #### workflows/
+
 - **triage.yml**: GitHub Actions workflow for automating issue triage based on comments.
 - **auto-merge.yml**: Workflow for automatically merging pull requests labeled with 'merge-ready'.
 
 #### PULL_REQUEST_TEMPLATE.md
+
 - Template for pull requests, ensuring consistent formatting and required information.
 
 ### .idea/ Directory
+
 - IDE-specific files for IntelliJ IDEA or similar editors (typically ignored in version control).
 
 ## Repository Diagram
@@ -90,11 +95,8 @@ graph TD
 ## How to Use This Repository
 
 1. **For Maintainers**: Customize the templates and guidelines to fit your project's needs. Update placeholders (like "*NsdHSO* organization" or "NsdHSO") with your actual organization/project details.
-
-2. **For Contributors**: Refer to CONTRIBUTING.md for guidelines on how to contribute. Use the provided templates when creating issues or pull requests.
-
+2. **For Contributors**: Refer to CONTRIBUTING.md for guidelines on how to contribute. Use the provided templates† when creating issues or pull requests.
 3. **Community Management**: Use the triage guide to manage incoming issues efficiently. Leverage the automated workflows to streamline processes.
-
 4. **Security and Support**: Direct users to SECURITY.md for vulnerability reporting and SUPPORT.md for general help.
 
 ## Contributing to This Repository
@@ -108,4 +110,3 @@ To improve or update these community health files:
 ## License
 
 This repository's contents are typically licensed under the same license as the main project. Check the main repository for license details.
-
