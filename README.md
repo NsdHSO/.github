@@ -1,9 +1,9 @@
 # .github
-Community health files for the black organization
+Community health files for the *NsdHSO* organization
 
 ## Overview
 
-This repository contains the community health files and configurations for the black organization on GitHub. It serves as a centralized location for maintaining standards, guidelines, and automated workflows that promote a healthy and collaborative open-source community.
+This repository contains the community health files and configurations for the *NsdHSO* organization on GitHub. It serves as a centralized location for maintaining standards, guidelines, and automated workflows that promote a healthy and collaborative open-source community.
 
 The repository includes essential files such as code of conduct, contribution guidelines, security policies, and issue/PR templates that help manage the project's interactions and contributions effectively.
 
@@ -89,7 +89,7 @@ graph TD
 
 ## How to Use This Repository
 
-1. **For Maintainers**: Customize the templates and guidelines to fit your project's needs. Update placeholders (like "black organization" or "NsdHSO") with your actual organization/project details.
+1. **For Maintainers**: Customize the templates and guidelines to fit your project's needs. Update placeholders (like "*NsdHSO* organization" or "NsdHSO") with your actual organization/project details.
 
 2. **For Contributors**: Refer to CONTRIBUTING.md for guidelines on how to contribute. Use the provided templates when creating issues or pull requests.
 
